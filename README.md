@@ -7,7 +7,7 @@ I will upload resources which may be helpful to learn C programming on your own.
 - Reading classical books (I recommend *C Primer Plus* for new beginners)
 - Practice by coding rather than watching
 - Understand the fundamental principles rather than learning by rote  
-- Take advantage of english resources like [cppreference.com](https://en.cppreference.com/w/c/language), which is more reliable than some
+- Take advantage of english resources like [cppreference.com](https://en.cppreference.com/w/c/language), which is more reliable than some tertiary sources
 - Make full use of Google and websites like [Stack Overflow](https://stackoverflow.com/) and [Tutorialspoint](https://www.tutorialspoint.com/cprogramming/index.htm)
 - Be serious about concepts but not stuck in them
 
